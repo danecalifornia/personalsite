@@ -1,0 +1,217 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: inherit;
+  color: #41444b;
+}
+
+h1 {
+  margin: 80px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  font-size: 4.6rem;
+  color: #056676;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #056676;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #056676;
+}
+
+hr {
+  width: 8%;
+  border-style: dotted;
+  border-width: 12px;
+  border-top: none;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  color: #056676;
+  opacity: .3;
+}
+
+.top-container {
+  background-color: #a3d2ca;
+  position: relative;
+  padding-top: 50px;
+}
+
+.profile {
+  background-color: #f7f4ed;
+  padding: 65px 50px 50px 50px;
+}
+
+.intro-blurb {
+  line-height: 1.8;
+  width: 60%;
+  margin: auto;
+}
+
+.skills {
+  background-color: #a3d2ca;
+  padding: 50px 50px 50px 50px;
+}
+
+.contact-me {
+  background-color: #f7f4ed;
+  padding: 20px 50px 30px 50px;
+}
+
+.social-copyright {
+  background-color: #a3d2ca;
+  padding: 50px 0 25px 0;
+}
+
+.copyright {
+  background-color: #a3d2ca;
+  padding: 10px 20px 50px 20px;
+}
+
+.instagram {
+padding: 20px 20px 0 20px;
+
+
+}
+
+.github {
+  padding: 20px 20px 0 20px;
+
+
+
+}
+
+.youtube {
+padding: 20px 20px 0 20px;
+
+
+}
+
+.fab {
+  font-size: 25px;
+  text-decoration: none;
+  color: #41444b;
+
+}
+.here {
+  text-decoration: none;
+  color: #41444b;
+  font-style: italic;
+}
+
+.danetheveganlink{
+  text-decoration: none;
+  color: #41444b;
+  font-style: italic;
+}
+
+.copyrighthr {
+  margin-top: 0;
+}
+.instagram, .github, .youtube {
+  display: inline-block;
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 175px;
+  bottom: 440px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 95px;
+}
+
+.yoga-pic {
+  max-width: 25%;
+}
+
+.computer {
+  max-width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding-top: 40px;
+}
+
+.soulfood-pic {
+  max-width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.circlegm-pic {
+  max-width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.insta {
+  max-width: 6%;
+}
+
+.youtube-img {
+  max-width: 6%;
+}
+
+.github-img {
+  max-width: 6%;
+}
+
+.final-thanks {
+  font-family: 'Satisfy', cursive;
+  font-size: 150%;
+}
+
+.tagline {
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 1.8;
+  padding-top: 8px;
+}
+
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #056676;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  font-weight: 200;
+  padding: 18px;
+  background-color: #A3D2CA;
+  text-shadow: 1px 1px 20px #FFFFFF;
+  border: solid #A3D2CA 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  line-height: 10px;
+}
+
+.btn:hover {
+  background: #F0ECE3;
+  border: solid #F0ECE3 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.webdevblurb {
+  overflow: hidden;
+}
